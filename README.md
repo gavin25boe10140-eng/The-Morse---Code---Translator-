@@ -2,7 +2,7 @@
 this project allows us to translate morse code into word in an easy and efficient way .
 
 # Overview
-The Morse Code Translator is a Python-based command-line interface (CLI) tool designed to facilitate communication using standard Morse code. This project allows users to encode regular text into Morse code patterns and decode Morse code sequences back into readable English text. It serves as a practical application of string manipulation, dictionary mapping, and user input handling in Python.
+The Morse Code Translator is a Python-based command-line interface tool designed to facilitate communication using standard Morse code. This project allows users to encode regular text into Morse code patterns and decode Morse code sequences back into readable English text. It serves as a practical application of string manipulation, dictionary mapping, and user input handling in Python.
 
 # Features
 Text-to-Morse Conversion: Instantly converts alphanumeric characters and punctuation into their corresponding Morse code representations.
